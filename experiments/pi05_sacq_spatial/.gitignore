@@ -1,0 +1,10 @@
+# Run outputs and local inputs written next to the scripts; only the two small result summaries are tracked.
+/openpi/
+/libero_config/config.yaml
+/logs/
+/runs/
+/reset/
+/verify/
+/sacq/*
+!/sacq/bits.json
+!/sacq/val_eval.json

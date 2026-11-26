@@ -1,0 +1,229 @@
+{
+ "batches": [
+  {
+   "condition": "bf16",
+   "task_index": 0,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 50,
+   "ok": true
+  },
+  {
+   "condition": "bf16",
+   "task_index": 1,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 50,
+   "ok": true
+  },
+  {
+   "condition": "bf16",
+   "task_index": 2,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 50,
+   "ok": true
+  },
+  {
+   "condition": "bf16",
+   "task_index": 3,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 49,
+   "ok": true
+  },
+  {
+   "condition": "bf16",
+   "task_index": 4,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 48,
+   "ok": true
+  },
+  {
+   "condition": "bf16",
+   "task_index": 5,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 35,
+   "ok": true
+  },
+  {
+   "condition": "bf16",
+   "task_index": 6,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 50,
+   "ok": true
+  },
+  {
+   "condition": "bf16",
+   "task_index": 7,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 47,
+   "ok": true
+  },
+  {
+   "condition": "bf16",
+   "task_index": 8,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 47,
+   "ok": true
+  },
+  {
+   "condition": "bf16",
+   "task_index": 9,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 50,
+   "ok": true
+  },
+  {
+   "condition": "sacq",
+   "task_index": 0,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 50,
+   "ok": true
+  },
+  {
+   "condition": "sacq",
+   "task_index": 1,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 50,
+   "ok": true
+  },
+  {
+   "condition": "sacq",
+   "task_index": 2,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 47,
+   "ok": true
+  },
+  {
+   "condition": "sacq",
+   "task_index": 3,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 50,
+   "ok": true
+  },
+  {
+   "condition": "sacq",
+   "task_index": 4,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 44,
+   "ok": true
+  },
+  {
+   "condition": "sacq",
+   "task_index": 5,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 28,
+   "ok": true
+  },
+  {
+   "condition": "sacq",
+   "task_index": 6,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 50,
+   "ok": true
+  },
+  {
+   "condition": "sacq",
+   "task_index": 7,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 45,
+   "ok": true
+  },
+  {
+   "condition": "sacq",
+   "task_index": 8,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 47,
+   "ok": true
+  },
+  {
+   "condition": "sacq",
+   "task_index": 9,
+   "files": 50,
+   "episode_ids_0_49": true,
+   "complete": 50,
+   "reset_hash_matches_process_reference": 50,
+   "matches_cpu_pose_replay": 50,
+   "successes": 48,
+   "ok": true
+  }
+ ],
+ "ok": true,
+ "bf16_reset_reconstructions": 0,
+ "sacq_reset_reconstructions": 0,
+ "paired_episodes": 500,
+ "paired_identical_initial_obs": 500
+}

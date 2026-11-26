@@ -1,0 +1,42 @@
+{
+ "candidate_layers": 284,
+ "candidate_weights": 2300575744,
+ "candidate_bpw_effective": {
+  "uniform_k64": 1.7505076155406079,
+  "rtn2": 2.5,
+  "rtn3": 3.5,
+  "bf16_original": 16.809480401093893
+ },
+ "candidate_bpw_nominal": {
+  "uniform_k64": 1.5,
+  "rtn2": 2.0,
+  "rtn3": 3.0,
+  "bf16_original": 16.809480401093893
+ },
+ "candidate_bytes": {
+  "uniform_k64": 503396920,
+  "rtn2": 718929920,
+  "rtn3": 1006501888,
+  "bf16_original": 4833935360
+ },
+ "background": {
+  "vision_projector_weights": 413429760,
+  "vision_projector_bpw": 4.5,
+  "embedding_weights": 526647296,
+  "embedding_bpw": 4.5
+ },
+ "rest_bytes": 14115680,
+ "model_params": 3353433872,
+ "size_gb": {
+  "original": 6.94630896,
+  "bg_only": 5.376844384,
+  "uniform_k64": 1.046305944,
+  "rtn2": 1.261838944,
+  "rtn3": 1.549410912
+ },
+ "by_part_gb": {
+  "candidates_original": 4.83393536,
+  "background_quantized": 0.528793344,
+  "rest": 0.01411568
+ }
+}

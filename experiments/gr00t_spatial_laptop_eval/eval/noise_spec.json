@@ -1,0 +1,1 @@
+{"schema":"sacq_noise_inputs_v1","output":"$SACQ_LAB/eval/noise/1x40x132","seed":20260824,"episodes":50,"calls":90,"shape":[1,40,132],"dtype":"bfloat16","device":"cuda","torch_version":"2.7.1+cu128"}

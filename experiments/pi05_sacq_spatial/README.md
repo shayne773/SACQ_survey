@@ -63,6 +63,7 @@ cd experiments/pi05_sacq_spatial
 export CKPT=/path/to/pi05_libero_pytorch OPENPI_DIR=/path/to/openpi
 sed "s#@OPENPI_DIR@#$OPENPI_DIR#g" libero_config/config.yaml.template > libero_config/config.yaml
 source env.sh
+mkdir -p logs                                                    # git-ignored; guards and launch.sh write here
 tools/start_guard.sh 5 22 && tools/start_diskguard.sh 30 20 25   # RAM guard; disk guard for WSL on C:
 for ph in obs mine official compare; do $PY -u scripts/verify_policy.py $ph; done  # loader vs openpi policy
 $PY -u scripts/reset_journal.py --seed 17 && $PY -u scripts/reset_journal.py --seed 1234

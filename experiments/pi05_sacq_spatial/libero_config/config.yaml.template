@@ -1,0 +1,5 @@
+benchmark_root: @OPENPI_DIR@/third_party/libero/libero/libero
+bddl_files: @OPENPI_DIR@/third_party/libero/libero/libero/bddl_files
+init_states: @OPENPI_DIR@/third_party/libero/libero/libero/init_files
+datasets: @OPENPI_DIR@/third_party/libero/libero/libero/../datasets
+assets: @OPENPI_DIR@/third_party/libero/libero/libero/assets

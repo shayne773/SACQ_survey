@@ -1,0 +1,5 @@
+benchmark_root: "@SACQ_LAB@/ws/libero_pro_eval/Isaac-GR00T-N1.7/external_dependencies/LIBERO/libero/libero"
+assets: "@SACQ_LAB@/ws/libero_pro_eval/Isaac-GR00T-N1.7/external_dependencies/LIBERO/libero/libero/assets"
+bddl_files: "@SACQ_LAB@/ws/libero_pro_eval/Isaac-GR00T-N1.7/external_dependencies/LIBERO/libero/libero/bddl_files"
+init_states: "@SACQ_LAB@/ws/libero_pro_eval/Isaac-GR00T-N1.7/external_dependencies/LIBERO/libero/libero/init_files"
+datasets: "@SACQ_LAB@/ws/libero_pro_eval/Isaac-GR00T-N1.7/external_dependencies/LIBERO/libero/libero/../datasets"

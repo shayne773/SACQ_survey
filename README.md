@@ -21,6 +21,7 @@ integrated into this release.
 | Run fitting through evaluation | [Execution runbook](gr00t_libero/RUNBOOK.md) |
 | Inspect the recorded SACQ2 configuration | [Reference preset](gr00t_libero/presets/gr00t_libero_sacq2_seed17.json) |
 | Match final settings to recorded results | [Experiment map](experiments/gr00t_libero/README.md) |
+| See laptop experiments (GR00T Spatial BF16 vs W1.5A16; SACQ on pi0.5, unfinished) | [GR00T Spatial eval](experiments/gr00t_spatial_laptop_eval/README.md), [pi0.5 SACQ](experiments/pi05_sacq_spatial/README.md) |
 | Run the final W1.5A8 model | [A8 inference guide](gr00t_libero/acceleration/INFERENCE.md) |
 | Check what has actually been tested | [Validation record](VALIDATION.md) |
 

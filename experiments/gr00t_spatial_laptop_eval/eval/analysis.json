@@ -1,0 +1,532 @@
+{
+  "per_task": [
+    {
+      "task_index": 0,
+      "language": "pick up the black bowl between the plate and the ramekin and place it on the plate",
+      "bf16": {
+        "successes": 50,
+        "episodes": 50,
+        "rate": 1.0,
+        "wilson95": [
+          0.9286524008666414,
+          1.0
+        ]
+      },
+      "sacq": {
+        "successes": 50,
+        "episodes": 50,
+        "rate": 1.0,
+        "wilson95": [
+          0.9286524008666414,
+          1.0
+        ]
+      },
+      "bf16_only": 0,
+      "sacq_only": 0,
+      "identical_initial_obs": true
+    },
+    {
+      "task_index": 1,
+      "language": "pick up the black bowl next to the ramekin and place it on the plate",
+      "bf16": {
+        "successes": 50,
+        "episodes": 50,
+        "rate": 1.0,
+        "wilson95": [
+          0.9286524008666414,
+          1.0
+        ]
+      },
+      "sacq": {
+        "successes": 50,
+        "episodes": 50,
+        "rate": 1.0,
+        "wilson95": [
+          0.9286524008666414,
+          1.0
+        ]
+      },
+      "bf16_only": 0,
+      "sacq_only": 0,
+      "identical_initial_obs": true
+    },
+    {
+      "task_index": 2,
+      "language": "pick up the black bowl from table center and place it on the plate",
+      "bf16": {
+        "successes": 50,
+        "episodes": 50,
+        "rate": 1.0,
+        "wilson95": [
+          0.9286524008666414,
+          1.0
+        ]
+      },
+      "sacq": {
+        "successes": 47,
+        "episodes": 50,
+        "rate": 0.94,
+        "wilson95": [
+          0.8378290831116182,
+          0.979385029651026
+        ]
+      },
+      "bf16_only": 3,
+      "sacq_only": 0,
+      "identical_initial_obs": true
+    },
+    {
+      "task_index": 3,
+      "language": "pick up the black bowl on the cookie box and place it on the plate",
+      "bf16": {
+        "successes": 49,
+        "episodes": 50,
+        "rate": 0.98,
+        "wilson95": [
+          0.8950455641036219,
+          0.9964607407283539
+        ]
+      },
+      "sacq": {
+        "successes": 50,
+        "episodes": 50,
+        "rate": 1.0,
+        "wilson95": [
+          0.9286524008666414,
+          1.0
+        ]
+      },
+      "bf16_only": 0,
+      "sacq_only": 1,
+      "identical_initial_obs": true
+    },
+    {
+      "task_index": 4,
+      "language": "pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate",
+      "bf16": {
+        "successes": 48,
+        "episodes": 50,
+        "rate": 0.96,
+        "wilson95": [
+          0.8653990931249297,
+          0.9889611156723802
+        ]
+      },
+      "sacq": {
+        "successes": 44,
+        "episodes": 50,
+        "rate": 0.88,
+        "wilson95": [
+          0.7619518261679701,
+          0.9438239984906773
+        ]
+      },
+      "bf16_only": 4,
+      "sacq_only": 0,
+      "identical_initial_obs": true
+    },
+    {
+      "task_index": 5,
+      "language": "pick up the black bowl on the ramekin and place it on the plate",
+      "bf16": {
+        "successes": 35,
+        "episodes": 50,
+        "rate": 0.7,
+        "wilson95": [
+          0.562496495355466,
+          0.8089644649911906
+        ]
+      },
+      "sacq": {
+        "successes": 28,
+        "episodes": 50,
+        "rate": 0.56,
+        "wilson95": [
+          0.4230602802165686,
+          0.6883780078874284
+        ]
+      },
+      "bf16_only": 12,
+      "sacq_only": 5,
+      "identical_initial_obs": true
+    },
+    {
+      "task_index": 6,
+      "language": "pick up the black bowl next to the cookie box and place it on the plate",
+      "bf16": {
+        "successes": 50,
+        "episodes": 50,
+        "rate": 1.0,
+        "wilson95": [
+          0.9286524008666414,
+          1.0
+        ]
+      },
+      "sacq": {
+        "successes": 50,
+        "episodes": 50,
+        "rate": 1.0,
+        "wilson95": [
+          0.9286524008666414,
+          1.0
+        ]
+      },
+      "bf16_only": 0,
+      "sacq_only": 0,
+      "identical_initial_obs": true
+    },
+    {
+      "task_index": 7,
+      "language": "pick up the black bowl on the stove and place it on the plate",
+      "bf16": {
+        "successes": 47,
+        "episodes": 50,
+        "rate": 0.94,
+        "wilson95": [
+          0.8378290831116182,
+          0.979385029651026
+        ]
+      },
+      "sacq": {
+        "successes": 45,
+        "episodes": 50,
+        "rate": 0.9,
+        "wilson95": [
+          0.7863976856252035,
+          0.9565242350681096
+        ]
+      },
+      "bf16_only": 2,
+      "sacq_only": 0,
+      "identical_initial_obs": true
+    },
+    {
+      "task_index": 8,
+      "language": "pick up the black bowl next to the plate and place it on the plate",
+      "bf16": {
+        "successes": 47,
+        "episodes": 50,
+        "rate": 0.94,
+        "wilson95": [
+          0.8378290831116182,
+          0.979385029651026
+        ]
+      },
+      "sacq": {
+        "successes": 47,
+        "episodes": 50,
+        "rate": 0.94,
+        "wilson95": [
+          0.8378290831116182,
+          0.979385029651026
+        ]
+      },
+      "bf16_only": 0,
+      "sacq_only": 0,
+      "identical_initial_obs": true
+    },
+    {
+      "task_index": 9,
+      "language": "pick up the black bowl on the wooden cabinet and place it on the plate",
+      "bf16": {
+        "successes": 50,
+        "episodes": 50,
+        "rate": 1.0,
+        "wilson95": [
+          0.9286524008666414,
+          1.0
+        ]
+      },
+      "sacq": {
+        "successes": 48,
+        "episodes": 50,
+        "rate": 0.96,
+        "wilson95": [
+          0.8653990931249297,
+          0.9889611156723802
+        ]
+      },
+      "bf16_only": 2,
+      "sacq_only": 0,
+      "identical_initial_obs": true
+    }
+  ],
+  "overall": {
+    "bf16": {
+      "successes": 476,
+      "episodes": 500,
+      "rate": 0.952,
+      "wilson95": [
+        0.92957280316411,
+        0.9675347930586469
+      ]
+    },
+    "sacq": {
+      "successes": 459,
+      "episodes": 500,
+      "rate": 0.918,
+      "wilson95": [
+        0.8906451408426114,
+        0.9389809105315311
+      ]
+    }
+  },
+  "paired": {
+    "matched_episodes": 500,
+    "both_success": 453,
+    "neither": 18,
+    "bf16_success_sacq_fail": 23,
+    "sacq_success_bf16_fail": 6,
+    "mcnemar_exact_p": 0.002315700054168701,
+    "difference_pp": -3.399999999999992,
+    "identical_initial_obs_all": true,
+    "discordant": [
+      {
+        "task_index": 2,
+        "episode": 4,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 2,
+        "episode": 26,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 2,
+        "episode": 29,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 4,
+        "episode": 10,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 4,
+        "episode": 18,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 4,
+        "episode": 27,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 4,
+        "episode": 47,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 3,
+        "episode": 8,
+        "bf16": false,
+        "sacq": true
+      },
+      {
+        "task_index": 5,
+        "episode": 0,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 5,
+        "episode": 1,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 5,
+        "episode": 4,
+        "bf16": false,
+        "sacq": true
+      },
+      {
+        "task_index": 5,
+        "episode": 10,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 5,
+        "episode": 11,
+        "bf16": false,
+        "sacq": true
+      },
+      {
+        "task_index": 5,
+        "episode": 16,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 5,
+        "episode": 19,
+        "bf16": false,
+        "sacq": true
+      },
+      {
+        "task_index": 5,
+        "episode": 24,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 5,
+        "episode": 27,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 5,
+        "episode": 29,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 5,
+        "episode": 36,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 5,
+        "episode": 37,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 5,
+        "episode": 39,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 5,
+        "episode": 40,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 5,
+        "episode": 42,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 5,
+        "episode": 47,
+        "bf16": false,
+        "sacq": true
+      },
+      {
+        "task_index": 5,
+        "episode": 49,
+        "bf16": false,
+        "sacq": true
+      },
+      {
+        "task_index": 7,
+        "episode": 11,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 7,
+        "episode": 37,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 9,
+        "episode": 16,
+        "bf16": true,
+        "sacq": false
+      },
+      {
+        "task_index": 9,
+        "episode": 49,
+        "bf16": true,
+        "sacq": false
+      }
+    ]
+  },
+  "timing": {
+    "bf16": {
+      "solo": {
+        "n": 198,
+        "mean_sec_per_episode": 13.50778513484531,
+        "median_sec_per_episode": 12.8863844871521,
+        "mean_sec_per_env_step": 0.12766826374674678
+      },
+      "two_workers": {
+        "n": 292,
+        "mean_sec_per_episode": 22.567682555277052,
+        "median_sec_per_episode": 15.776463627815247,
+        "mean_sec_per_env_step": 0.14555885966293902
+      },
+      "excluded_host_suspension": 0,
+      "mean_env_steps": 138.3795918367347,
+      "policy_sec_per_call": 0.14174640500767688,
+      "policy_calls": 8737,
+      "sim_sec_per_call_8_steps_incl_rpc": 0.8439145510656356,
+      "total_task_wall_hours": 2.870504774649938,
+      "graph_states": [
+        "ENABLED"
+      ],
+      "cache_states": [
+        "DISABLED"
+      ]
+    },
+    "sacq": {
+      "solo": {
+        "n": 115,
+        "mean_sec_per_episode": 13.77026425237241,
+        "median_sec_per_episode": 12.924653768539429,
+        "mean_sec_per_env_step": 0.12980519568604737
+      },
+      "two_workers": {
+        "n": 373,
+        "mean_sec_per_episode": 26.880657744471574,
+        "median_sec_per_episode": 18.24907112121582,
+        "mean_sec_per_env_step": 0.1671185773002015
+      },
+      "excluded_host_suspension": 2,
+      "mean_env_steps": 156.81147540983608,
+      "policy_sec_per_call": 0.2534220305848094,
+      "policy_calls": 9923,
+      "sim_sec_per_call_8_steps_incl_rpc": 0.8589594125867132,
+      "total_task_wall_hours": 3.9189491631587345,
+      "graph_states": [
+        "ENABLED"
+      ],
+      "cache_states": [
+        "DISABLED",
+        "ENABLED"
+      ]
+    }
+  },
+  "vram": {
+    "bf16": {
+      "max_memory_allocated_GB": 6.407358976,
+      "max_memory_reserved_GB": 6.54311424
+    },
+    "sacq": {
+      "max_memory_allocated_GB": 10.255424,
+      "max_memory_reserved_GB": 10.301210624
+    },
+    "nvidia_smi_device_peak_MiB_incl_desktop_renderer_and_both_workers": 15777
+  },
+  "host_suspension_gaps": [
+    [
+      "2026-11-22T21:20:41",
+      1246
+    ]
+  ]
+}

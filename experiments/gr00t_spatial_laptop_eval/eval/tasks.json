@@ -1,0 +1,72 @@
+[
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_between_the_plate_and_the_ramekin_and_place_it_on_the_plate",
+    "task_id": 0,
+    "language": "pick up the black bowl between the plate and the ramekin and place it on the plate",
+    "bddl": "$SACQ_LAB/ws/libero_pro_eval/Isaac-GR00T-N1.7/external_dependencies/LIBERO/libero/libero/bddl_files/libero_spatial/pick_up_the_black_bowl_between_the_plate_and_the_ramekin_and_place_it_on_the_plate.bddl"
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate",
+    "task_id": 1,
+    "language": "pick up the black bowl next to the ramekin and place it on the plate",
+    "bddl": "$SACQ_LAB/ws/libero_pro_eval/Isaac-GR00T-N1.7/external_dependencies/LIBERO/libero/libero/bddl_files/libero_spatial/pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate.bddl"
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_from_table_center_and_place_it_on_the_plate",
+    "task_id": 2,
+    "language": "pick up the black bowl from table center and place it on the plate",
+    "bddl": "$SACQ_LAB/ws/libero_pro_eval/Isaac-GR00T-N1.7/external_dependencies/LIBERO/libero/libero/bddl_files/libero_spatial/pick_up_the_black_bowl_from_table_center_and_place_it_on_the_plate.bddl"
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_cookie_box_and_place_it_on_the_plate",
+    "task_id": 3,
+    "language": "pick up the black bowl on the cookie box and place it on the plate",
+    "bddl": "$SACQ_LAB/ws/libero_pro_eval/Isaac-GR00T-N1.7/external_dependencies/LIBERO/libero/libero/bddl_files/libero_spatial/pick_up_the_black_bowl_on_the_cookie_box_and_place_it_on_the_plate.bddl"
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wooden_cabinet_and_place_it_on_the_plate",
+    "task_id": 4,
+    "language": "pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate",
+    "bddl": "$SACQ_LAB/ws/libero_pro_eval/Isaac-GR00T-N1.7/external_dependencies/LIBERO/libero/libero/bddl_files/libero_spatial/pick_up_the_black_bowl_in_the_top_drawer_of_the_wooden_cabinet_and_place_it_on_the_plate.bddl"
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_plate",
+    "task_id": 5,
+    "language": "pick up the black bowl on the ramekin and place it on the plate",
+    "bddl": "$SACQ_LAB/ws/libero_pro_eval/Isaac-GR00T-N1.7/external_dependencies/LIBERO/libero/libero/bddl_files/libero_spatial/pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_plate.bddl"
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_next_to_the_cookie_box_and_place_it_on_the_plate",
+    "task_id": 6,
+    "language": "pick up the black bowl next to the cookie box and place it on the plate",
+    "bddl": "$SACQ_LAB/ws/libero_pro_eval/Isaac-GR00T-N1.7/external_dependencies/LIBERO/libero/libero/bddl_files/libero_spatial/pick_up_the_black_bowl_next_to_the_cookie_box_and_place_it_on_the_plate.bddl"
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_stove_and_place_it_on_the_plate",
+    "task_id": 7,
+    "language": "pick up the black bowl on the stove and place it on the plate",
+    "bddl": "$SACQ_LAB/ws/libero_pro_eval/Isaac-GR00T-N1.7/external_dependencies/LIBERO/libero/libero/bddl_files/libero_spatial/pick_up_the_black_bowl_on_the_stove_and_place_it_on_the_plate.bddl"
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_next_to_the_plate_and_place_it_on_the_plate",
+    "task_id": 8,
+    "language": "pick up the black bowl next to the plate and place it on the plate",
+    "bddl": "$SACQ_LAB/ws/libero_pro_eval/Isaac-GR00T-N1.7/external_dependencies/LIBERO/libero/libero/bddl_files/libero_spatial/pick_up_the_black_bowl_next_to_the_plate_and_place_it_on_the_plate.bddl"
+  },
+  {
+    "suite": "libero_spatial",
+    "task": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_place_it_on_the_plate",
+    "task_id": 9,
+    "language": "pick up the black bowl on the wooden cabinet and place it on the plate",
+    "bddl": "$SACQ_LAB/ws/libero_pro_eval/Isaac-GR00T-N1.7/external_dependencies/LIBERO/libero/libero/bddl_files/libero_spatial/pick_up_the_black_bowl_on_the_wooden_cabinet_and_place_it_on_the_plate.bddl"
+  }
+]
